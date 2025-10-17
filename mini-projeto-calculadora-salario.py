@@ -1,5 +1,9 @@
+# BOAS-VINDAS E COLETA DE DADOS
+# IMPRIME UMA MENSAGEM DE BOAS-VINDAS AO USUÁRIO NO TERMINAL.
 print('Olá, querido funcionário! Seja bem- vindo!')
+# SOLICITA E ARMAZENA O NOME COMPLETO DO FUNCIONÁRIO NA VARIÁVEL 'N1'
 n1 = input('Por favor, informe o seu nome completo:')
+
 print(
     f'Tudo preparado(a) {n1}?\n Vamos calcular o aumento do seu salário em 15%')
 
