@@ -17,7 +17,7 @@ elif salario == 2000:
     print('Seu salário é de R$2000.00. Um valor OK, mas com aumento de 15 % vai melhorar!')
 
 else:
-    print('Uau! Belo salário!')
+    print('Uau! Belo salário hein!')
 
 conta = salario*1.15
 print(f'{n1} o seu salário com aumento de 15%, ficou no valor de R${conta:.2f}')
